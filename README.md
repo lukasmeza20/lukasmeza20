@@ -1,6 +1,5 @@
 
 <h1 align="center">Hola, soy Lukas👋</h1>
-    <h2 align="center">Programador</h2>
 
 - 🧠 Aprendiendo tecnologías demandadas
   
