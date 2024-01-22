@@ -1,10 +1,6 @@
 
 <h1 align="center">Hola, soy Lukas👋</h1>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Programador</h2></summary>
-  </ul>
-</div>
+    <summary><h2 align="center" style="display: inline-block">Programador</h2></summary>
 
 - 🧠 Aprendiendo tecnologías demandadas
   
