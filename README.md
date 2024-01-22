@@ -2,7 +2,7 @@
 <h1 align="center">print("Hola, soy Lukas👋")</h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=999&random=false&width=435&lines=¡Bienvenido+a+mi+perfil+ de+Github!;+;Soy+un+apasionado+programador;+;con+experiencia+en;+;diversos+lenguajes;+;y+tecnologías.;+;Aquí+hay+un+poco+más;++;sobre+mí:" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=999&random=false&width=435&lines=¡Bienvenido+a+mi+perfil+de+GitHub!%0A%0ASoy+un+apasionado+programador+con+experiencia+en+diversos+lenguajes+y+tecnologías.+Me+encanta+construir+cosas+y+enfrentar+nuevos+desafíos.+Aquí+hay+un+poco+más+sobre+mí.%0A%0AThe+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 </p>
 
 
