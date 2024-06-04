@@ -12,7 +12,7 @@
   
 - 👨‍💻 Trabajando en proyectos para mi portafolio
 
-- 🦅 Especializandome como Fullstack
+- 🦅 Estudiante de ingenieria en informatica
 
 <div id="user-content-toc">
   <ul align="center">
