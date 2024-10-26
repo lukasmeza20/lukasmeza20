@@ -16,13 +16,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que manejo</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,postgres,react,git,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=python,django,postgres,git,html,css,javascript" />
   </a>
 </p>
 
