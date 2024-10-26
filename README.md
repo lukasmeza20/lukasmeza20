@@ -8,7 +8,7 @@
 
 - 🧠 Aprendiendo tecnologías demandadas
   
-- 🦾 Ejerciendo cada día más como programador
+- 🦾 Ejerciendo cada día para mi perfil profesional
   
 - 👨‍💻 Trabajando en proyectos para mi portafolio
 
