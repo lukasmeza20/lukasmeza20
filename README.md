@@ -6,7 +6,7 @@
 </p>
 
 
-- 🧠 Aprendiendo tecnologías demandadas
+- 🧠 Aprendiendo nuevas técnologias
   
 - 🦾 Ejerciendo cada día para mi perfil profesional
   
