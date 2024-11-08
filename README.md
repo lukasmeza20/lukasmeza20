@@ -22,7 +22,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,postgres,git,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=python,django,dotnet,mysql,git,html,css,javascript,kali,arduino" />
   </a>
 </p>
 
