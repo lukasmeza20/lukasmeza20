@@ -37,12 +37,6 @@
     <a href="https://www.linkedin.com/in/lukas-meza-lagos/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-    <a href="https://www.linkedin.com/in/lukas-meza-lagos/">
-      <img src="https://skillicons.dev/icons?i=twitter" />
-    </a>
-  <a href="https://www.linkedin.com/in/lukas-meza-lagos/">
-      <img src="https://skillicons.dev/icons?i=instagram" />
-    </a>
 </p>
 
 
