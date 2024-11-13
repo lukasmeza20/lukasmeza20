@@ -6,13 +6,13 @@
 </p>
 
 
-- 🧠 Aprendiendo nuevas tecnologías
-  
-- 🦾 Ejerciendo cada día para mi perfil profesional
-  
-- 👨‍💻 Trabajando en proyectos para mi portafolio
+🧠 Siempre explorando y aprendiendo nuevas tecnologías.
 
-- 🦅 Estudiante de ingenieria en informatica
+💪 Enfocado en fortalecer mi perfil profesional cada día.
+
+💻 Trabajando en proyectos interesantes para mi portafolio.
+
+🦅 Estudiante de Ingeniería en Informática con aspiraciones de crecimiento continuo.
 
 <div id="user-content-toc">
   <ul align="center">
