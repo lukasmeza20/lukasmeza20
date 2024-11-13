@@ -19,7 +19,7 @@
 <!-- Tech stack icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,dotnet,mysql,git,html,css,javascript,kali,arduino,powerbi" alt="Tecnologías" />
+    <img src="https://skillicons.dev/icons?i=py,django,dotnet,mysql,git,html,css,javascript,bootstrap,kali,linux,arduino" alt="Tecnologías" />
   </a>
 </p>
 
