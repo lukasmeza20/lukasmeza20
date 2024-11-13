@@ -9,10 +9,11 @@
   </a>
 </p>
 
+- 🦅 Estudiante de Ingeniería en Informática con aspiraciones de crecimiento continuo.
 - 🧠 Siempre explorando y aprendiendo nuevas tecnologías.
 - 💪 Enfocado en fortalecer mi perfil profesional cada día.
 - 💻 Trabajando en proyectos interesantes para mi portafolio.
-- 🦅 Estudiante de Ingeniería en Informática con aspiraciones de crecimiento continuo.
+
 
 <div align="center">
   <h2 style="display: inline-block">Tecnologías que manejo</h2>
